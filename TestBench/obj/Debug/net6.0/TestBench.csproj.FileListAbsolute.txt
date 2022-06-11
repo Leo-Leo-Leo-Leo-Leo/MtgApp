@@ -1,0 +1,15 @@
+/home/leardotaylor/Documents/Projects/MtgApp/TestBench/bin/Debug/net6.0/TestBench
+/home/leardotaylor/Documents/Projects/MtgApp/TestBench/bin/Debug/net6.0/TestBench.deps.json
+/home/leardotaylor/Documents/Projects/MtgApp/TestBench/bin/Debug/net6.0/TestBench.runtimeconfig.json
+/home/leardotaylor/Documents/Projects/MtgApp/TestBench/bin/Debug/net6.0/TestBench.dll
+/home/leardotaylor/Documents/Projects/MtgApp/TestBench/bin/Debug/net6.0/ref/TestBench.dll
+/home/leardotaylor/Documents/Projects/MtgApp/TestBench/bin/Debug/net6.0/TestBench.pdb
+/home/leardotaylor/Documents/Projects/MtgApp/TestBench/obj/Debug/net6.0/TestBench.csproj.AssemblyReference.cache
+/home/leardotaylor/Documents/Projects/MtgApp/TestBench/obj/Debug/net6.0/TestBench.GeneratedMSBuildEditorConfig.editorconfig
+/home/leardotaylor/Documents/Projects/MtgApp/TestBench/obj/Debug/net6.0/TestBench.AssemblyInfoInputs.cache
+/home/leardotaylor/Documents/Projects/MtgApp/TestBench/obj/Debug/net6.0/TestBench.AssemblyInfo.cs
+/home/leardotaylor/Documents/Projects/MtgApp/TestBench/obj/Debug/net6.0/TestBench.csproj.CoreCompileInputs.cache
+/home/leardotaylor/Documents/Projects/MtgApp/TestBench/obj/Debug/net6.0/TestBench.dll
+/home/leardotaylor/Documents/Projects/MtgApp/TestBench/obj/Debug/net6.0/ref/TestBench.dll
+/home/leardotaylor/Documents/Projects/MtgApp/TestBench/obj/Debug/net6.0/TestBench.pdb
+/home/leardotaylor/Documents/Projects/MtgApp/TestBench/obj/Debug/net6.0/TestBench.genruntimeconfig.cache

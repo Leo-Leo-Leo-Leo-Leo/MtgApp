@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/leardotaylor/Documents/Projects/MtgApp/TestBench/TestBench.csproj": {}
+  },
+  "projects": {
+    "/home/leardotaylor/Documents/Projects/MtgApp/TestBench/TestBench.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/leardotaylor/Documents/Projects/MtgApp/TestBench/TestBench.csproj",
+        "projectName": "TestBench",
+        "projectPath": "/home/leardotaylor/Documents/Projects/MtgApp/TestBench/TestBench.csproj",
+        "packagesPath": "/home/leardotaylor/.nuget/packages/",
+        "outputPath": "/home/leardotaylor/Documents/Projects/MtgApp/TestBench/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/leardotaylor/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
